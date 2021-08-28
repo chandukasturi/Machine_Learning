@@ -15,7 +15,7 @@ K-NN regressor.ipynb : This file contains the python implementation of myknnregr
 
 K-NN Regressor.ipynb : This file contains the python implementation of myLWR() 
 
-hw1_report: This file consists of the entire summarization of the results acquired by the above python codes.
+Report: This file consists of the entire summarization of the results acquired by the above python codes.
 
 
 Execution of the above files 
